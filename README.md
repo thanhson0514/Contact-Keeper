@@ -14,9 +14,9 @@ npm install
 
 ### Mongo connection setup and key access token
 
-Creat file <pre>.env</pre> .
-Create key "MONGO_URI" and value get from <a href="https://cloud.mongodb.com/">https://cloud.mongodb.com/</a>
-Create key "ACCESS_TOKEN_SECRET" and get random value
+*Creat file ```.env```.
+*Create key "MONGO_URI" and value get from <a href="https://cloud.mongodb.com/">https://cloud.mongodb.com/</a>
+*Create key "ACCESS_TOKEN_SECRET" and get random value
 
 ### Run Server
 
