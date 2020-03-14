@@ -30,7 +30,8 @@ export default (state, action) => {
         token: null,
         isAuthenticated: null,
         loading: false,
-        error: action.payload
+        error: action.payload,
+        user: null
       };
     case USER_LOADED:
       return {
